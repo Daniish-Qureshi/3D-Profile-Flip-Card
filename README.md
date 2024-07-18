@@ -1,8 +1,10 @@
 # Project Name: 3D Profile Flip Card
 
-![Project Preview](https://github.com/Daniish-Qureshi/3D-Profile-Flip-Card/blob/main/Mobile.png?raw=true)
+## Demo Screenshots
+Below is a screenshot of the 3D Profile Flip Card:
+![Profile Card Screenshot](https://github.com/Daniish-Qureshi/3D-Profile-Flip-Card/blob/main/Mobile.png)
 
-## Live Demo
+## Project Demo
 [![Live Demo](https://img.shields.io/badge/Live-Demo-black)](https://daniish-qureshi.github.io/3D-Profile-Flip-Card/)
 
 ## Introduction
@@ -19,9 +21,8 @@ This project is built using the following technologies:
 - Smooth and responsive design.
 - Customizable profile information and images.
 
-## Screenshots
-Below is a screenshot of the 3D Profile Flip Card:
-![Profile Card Screenshot](https://github.com/Daniish-Qureshi/3D-Profile-Flip-Card/blob/main/Desktop.png)
+##Contact
+If you want to contact with me you can reach me at[Linkedin]((https://www.linkedin.com/in/danishqureshi786)
 
 ## Setup and Installation
 To run this project locally, follow these steps:
