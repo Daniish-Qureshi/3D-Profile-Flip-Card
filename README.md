@@ -20,7 +20,7 @@ This project is built using the following technologies:
 - Customizable profile information and images.
 
 ## Contact
-If you want to contact with me you can reach me at[Linkedin](https://www.linkedin.com/in/danishqureshi786)
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/danishqureshi786)
 
 ## Setup and Installation
 To run this project locally, follow these steps:
