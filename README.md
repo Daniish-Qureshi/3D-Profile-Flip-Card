@@ -1,4 +1,4 @@
-# Project Name: 3D Profile Flip Card
+# 3D Profile Flip Card
 
 ## Demo Screenshots
 ![Profile Card Screenshot](https://github.com/Daniish-Qureshi/3D-Profile-Flip-Card/blob/main/Mobile.png)
@@ -20,11 +20,9 @@ This project is built using the following technologies:
 - Customizable profile information and images.
 
 ## Contact
-If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/danishqureshi786)
+If you want to contact with me you can reach me at 
+- [Linkedin](https://www.linkedin.com/in/danishqureshi786)
+- [Github](https://github.com/Daniish-Qureshi)
 
-## Setup and Installation
-To run this project locally, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/daniish-qureshi/3D-Profile-Flip-Card.git
+
 
