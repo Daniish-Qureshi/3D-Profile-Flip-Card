@@ -7,7 +7,8 @@ The 3D Profile Flip Card is an innovative web component designed to showcase use
 ![Profile Card Screenshot](https://github.com/Daniish-Qureshi/3D-Profile-Flip-Card/blob/main/Mobile.png)
 
 ## Project Demo
-Click this Live Demo Button and the Project is Live Your Mobile or PC & Laptop
+Click this Live Demo Button and the Project is Live Your Mobile PC & Laptop.
+
 [![Click Here!](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/3D-Profile-Flip-Card/)
 
 ## Technologies Used
